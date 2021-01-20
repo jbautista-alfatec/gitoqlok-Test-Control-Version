@@ -1,0 +1,29 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "b1fec996-ec85-407c-8081-f123d50b2ea7",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Pivot",
+      "description": ""
+    },
+    "rank": 1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": []
+}
