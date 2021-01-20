@@ -11,8 +11,16 @@
       "modifiedDate": "2021-01-20T12:40:13.642Z"
     },
     {
+      "qId": "9cc4f587-4041-496d-882b-16ba61f8c9d1",
+      "qType": "sheet"
+    },
+    {
       "qId": "LoadModel",
       "qType": "LoadModel"
+    },
+    {
+      "qId": "VxrqYh",
+      "qType": "pivot-table"
     }
   ]
 }
