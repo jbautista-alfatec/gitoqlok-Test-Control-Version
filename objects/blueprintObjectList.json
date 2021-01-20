@@ -33,6 +33,10 @@
       "modifiedDate": "2021-01-20T13:16:20.184Z"
     },
     {
+      "qId": "gUUwECN",
+      "qType": "pivot-table"
+    },
+    {
       "qId": "jkrPTm",
       "qType": "kpi"
     }
