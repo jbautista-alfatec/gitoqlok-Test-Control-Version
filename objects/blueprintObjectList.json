@@ -3,16 +3,24 @@
     {
       "qId": "3050fa9f-3f78-4e38-abfc-8433f5d7eaea",
       "qType": "appprops",
-      "modifiedDate": "2021-01-20T11:48:17.648Z"
+      "modifiedDate": "2021-01-20T12:40:13.642Z"
     },
     {
       "qId": "8356cbd7-047b-4001-816b-ff90f9bdfd2a",
       "qType": "sheet",
-      "modifiedDate": "2021-01-20T11:48:17.648Z"
+      "modifiedDate": "2021-01-20T12:40:13.642Z"
+    },
+    {
+      "qId": "9cc4f587-4041-496d-882b-16ba61f8c9d1",
+      "qType": "sheet"
     },
     {
       "qId": "LoadModel",
       "qType": "LoadModel"
+    },
+    {
+      "qId": "VxrqYh",
+      "qType": "pivot-table"
     }
   ]
 }
