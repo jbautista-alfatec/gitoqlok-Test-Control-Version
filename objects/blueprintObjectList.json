@@ -1,6 +1,10 @@
 {
   "qInfos": [
     {
+      "qId": "1532e1bf-b579-412a-895e-25afa6d99b95",
+      "qType": "sheet"
+    },
+    {
       "qId": "3050fa9f-3f78-4e38-abfc-8433f5d7eaea",
       "qType": "appprops",
       "modifiedDate": "2021-01-20T11:50:38.039Z"
@@ -11,8 +15,16 @@
       "modifiedDate": "2021-01-20T11:50:38.039Z"
     },
     {
+      "qId": "BcZep",
+      "qType": "kpi"
+    },
+    {
       "qId": "LoadModel",
       "qType": "LoadModel"
+    },
+    {
+      "qId": "jkrPTm",
+      "qType": "kpi"
     }
   ]
 }
