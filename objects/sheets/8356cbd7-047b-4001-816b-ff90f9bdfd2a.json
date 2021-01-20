@@ -1,0 +1,25 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "8356cbd7-047b-4001-816b-ff90f9bdfd2a",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Mi nueva hoja",
+      "description": ""
+    },
+    "rank": -1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    }
+  },
+  "qChildren": []
+}
