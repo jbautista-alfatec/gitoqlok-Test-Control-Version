@@ -19,6 +19,10 @@
       "qType": "kpi"
     },
     {
+      "qId": "Dxdjj",
+      "qType": "kpi"
+    },
+    {
       "qId": "LoadModel",
       "qType": "LoadModel"
     },
